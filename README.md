@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @new-boi-devoloper
-- 👀 I’m interested in smth new and complicated
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on neural_network
+- 👀 I’m interested in smth difficult and interesting
+- 🌱 I’m currently creating in UE5 and Unity
+- 💞️ I’m looking for inspirations and new
 - 📫 How to reach me | Just text me here 
 
 <!---
